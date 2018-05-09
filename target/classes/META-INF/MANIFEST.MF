@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Sushant
+Build-Jdk: 10.0.1
+Implementation-Title: Freelancer-Lab3
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.Freelancer
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/Freelancer-L
+ ab3/
+Created-By: Maven Integration for Eclipse
+
